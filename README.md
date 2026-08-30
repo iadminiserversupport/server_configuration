@@ -15,7 +15,7 @@ include server_configuration
 
 
 
-Server Management
+## Server Management
 
 Configuration automation is one part of maintaining production infrastructure. Ongoing monitoring, maintenance, security, troubleshooting, and administration are also important.
 
