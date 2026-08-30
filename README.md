@@ -12,11 +12,13 @@ A Puppet module for basic Linux server configuration and management.
 
 ```puppet
 include server_configuration
-
+```
 
 
 ## Server Management
 
 Configuration automation is one part of maintaining production infrastructure. Ongoing monitoring, maintenance, security, troubleshooting, and administration are also important.
 
-For professional server management services, visit iServerSupport.
+For professional [server management services](https://iserversupport.com/server-management-services/), visit [iServerSupport](https://iserversupport.com/).
+
+
