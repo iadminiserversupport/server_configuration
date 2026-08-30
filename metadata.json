@@ -1,0 +1,10 @@
+{
+  "name": "iadminiserversupport-server_configuration",
+  "version": "1.0.0",
+  "author": "iServerSupport",
+  "summary": "Basic Linux server configuration and management.",
+  "license": "MIT",
+  "source": "https://github.com/iadminiserversupport/server_configuration",
+  "project_page": "https://iserversupport.com/server-management-services/",
+  "issues_url": "https://github.com/iadminiserversupport/server_configuration/issues"
+}
